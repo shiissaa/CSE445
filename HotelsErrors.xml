@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- (1) The root element name is Hotel, instead of Hotels -->
-<Hotel xmlns="https://shiissaa.github.io/CSE445/Hotels.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:SchemaLocation="https://shiissaa.github.io/CSE445/Hotels.xsd">
+<Hotel xmlns="https://shiissaa.github.io/CSE445/Hotels.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://shiissaa.github.io/CSE445/Hotels.xml https://shiissaa.github.io/CSE445/Hotels.xsd">
     <!--#1-->
     <Hotel Rating="4.2">
         <Name>Westin</Name>
