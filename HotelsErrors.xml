@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (1) The root element name is Hotel, instead of Hotels -->
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+    <!--#1-->
+    <Hotel Rating="4.3">
+        <Name The Westin Tempe/>
+        <Phone 480-968-8885/>
+        <!-- (2) A required attribute is missing -->
+        <!-- <Address NearstAirport="PHX Sky Harbor International Airport"> -->
+            <Number 11/>
+            <Street E 7th St/>
+            <City Tempe/>
+            <State AZ/>
+            <Zip 85281/>
+        </Address>
+    </Hotel>
+    <!--#2-->
+    <Hotel Rating="4.6">
+        <Name The Venetian Las Vegas/>
+        <!-- (3) A Phone element is missing on one of the hotels -->
+        <!-- <Phone 702-414-1000/> -->
+        <Address NearstAirport="LAS Harry Reid International Airport">
+            <Number 3355/>
+            <Street S Las Vegas Blvd/>
+            <City Las Vegas/>
+            <State NV/>
+            <Zip 89109/>
+        </Address>
+    </Hotel>
+    <!--#3-->
+    <Hotel Rating="4.5">
+        <Name Villas At Poco Diablo/>
+        <Phone 928-204-3300/>
+        <Address NearstAirport="SDX Sedona Airport">
+            <Number 200/>
+            <Street Oak Creek Cliffs Dr/>
+            <City Sedona/>
+            <State AZ/>
+            <Zip 86336/>
+        <!-- (4) An Address elect has no closing tag -->
+        <!-- </Address> -->
+    </Hotel>
+    <!--#4-->
+    <Hotel Rating="4.6">
+        <Name The Fullerton Hotel Singapore/>
+        <!-- (5) Two names are provided for one of the hotels -->
+        <Name The Fullerton>
+        <Phone 65-6733-8388/>
+        <Address NearstAirport="SIN Changi Airport">
+            <Number 1/>
+            <Street Fullerton Square/>
+            <City Singapore/>
+            <State Singapore/>
+            <Zip 049178/>
+        </Address>
+    </Hotel>
+    <!--#5-->
+    <Hotel Rating="4.6">
+        <Name The Lenox Hotel/>
+        <Phone 617-536-5300/>
+        <Address NearstAirport="BOS Logan International Airport">
+            <Number 61/>
+            <Street Exeter St/>
+            <City Boston/>
+            <State MA/>
+            <Zip 02116/>
+        </Address>
+    </Hotel>
+    <!--#6-->
+    <Hotel Rating="4.4">
+        <Name Radio City Apartments/>
+        <Phone 212-730-0728/>
+        <Address NearstAirport="LGA LaGuardia Airport">
+            <Number 142/>
+            <Street W 49th St/>
+            <City New York/>
+            <State NY/>
+            <Zip 10020/>
+        </Address>
+    </Hotel>
+    <!--#7-->
+    <Hotel Rating="1100">
+        <Name Hotel Teatro/>
+        <Phone 888-727-1200/>
+        <Address NearstAirport="DEN Denver International Airport">
+            <Number 1100/>
+            <Street 14t St/>
+            <City Denver/>
+            <State CO/>
+            <Zip 80202/>
+        </Address>
+    </Hotel>
+    <!--#8-->
+    <Hotel Rating="">
+        <Name Royal Kona Resort/>
+        <Phone 808-329-3111/>
+        <Address NearstAirport=" KOA Kona International Airport">
+            <Number 75-5852/>
+            <Street Alii Dr/>
+            <City Kailua-Kona/>
+            <State HI/>
+            <Zip 96740/>
+        </Address>
+    </Hotel>
+    <!--#9-->
+    <Hotel Rating="">
+        <Name Waikiki Malia/>
+        <Phone 808-923-7621/>
+        <Address NearstAirport="HNL Daniel K. Inouye International Airport">
+            <Number 2211/>
+            <Street Kuhio Ave/>
+            <City Honolulu/>
+            <State HI/>
+            <Zip 96815/>
+        </Address>
+    </Hotel>
+    <!--#10-->
+    <Hotel Rating="">
+        <Name The Lakefront Anchorage/>
+        <Phone 907-243-2300/>
+        <Address NearstAirport="ANC Ted Stevens Anchorage International Airport">
+            <Number 4800/>
+            <Street Spenard Road/>
+            <City Anchorage/>
+            <State AK/>
+            <Zip 99517/>
+        </Address>
+    </Hotel>
+</Hotels>
