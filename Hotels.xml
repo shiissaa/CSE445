@@ -85,7 +85,7 @@
         </Address>
     </Hotel>
     <!--#8-->
-    <Hotel Rating="">
+    <Hotel>
         <Name>Royal Kona Resort</Name>
         <Phone>808-329-3111</Phone>
         <Address NearstAirport="KOA Kona International Airport">
@@ -97,7 +97,7 @@
         </Address>
     </Hotel>
     <!--#9-->
-    <Hotel Rating="">
+    <Hotel>
         <Name>Waikiki Malia</Name>
         <Phone>808-923-7621</Phone>
         <Address NearstAirport="HNL Daniel K. Inouye International Airport">
@@ -109,7 +109,7 @@
         </Address>
     </Hotel>
     <!--#10-->
-    <Hotel Rating="">
+    <Hotel>
         <Name>The Lakefront Anchorage</Name>
         <Phone>907-243-2300</Phone>
         <Address NearstAirport="ANC Ted Stevens Anchorage International Airport">
