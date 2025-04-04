@@ -2,122 +2,122 @@
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
     <!--#1-->
     <Hotel Rating="4.3">
-        <Name The Westin Tempe/>
-        <Phone 480-968-8885/>
+        <Name>The Westin Tempe</Name>
+        <Phone>480-968-8885</Phone>
         <Address NearstAirport="PHX Sky Harbor International Airport">
-            <Number 11/>
-            <Street E 7th St/>
-            <City Tempe/>
-            <State AZ/>
-            <Zip 85281/>
+            <Number>11</Number>
+            <Street>E 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
         </Address>
     </Hotel>
     <!--#2-->
     <Hotel Rating="4.6">
-        <Name The Venetian Las Vegas/>
-        <Phone 702-414-1000/>
+        <Name>The Venetian Las Vegas</Name>
+        <Phone>702-414-1000</Phone>
         <Address NearstAirport="LAS Harry Reid International Airport">
-            <Number 3355/>
-            <Street S Las Vegas Blvd/>
-            <City Las Vegas/>
-            <State NV/>
-            <Zip 89109/>
+            <Number>3355</Number>
+            <Street>S Las Vegas Blvd</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89109</Zip>
         </Address>
     </Hotel>
     <!--#3-->
     <Hotel Rating="4.5">
-        <Name Villas At Poco Diablo/>
-        <Phone 928-204-3300/>
+        <Name>Villas At Poco Diablo</Name>
+        <Phone>928-204-3300</Phone>
         <Address NearstAirport="SDX Sedona Airport">
-            <Number 200/>
-            <Street Oak Creek Cliffs Dr/>
-            <City Sedona/>
-            <State AZ/>
-            <Zip 86336/>
+            <Number>200</Number>
+            <Street>Oak Creek Cliffs Dr</Street>
+            <City>Sedona</City>
+            <State>AZ</State>
+            <Zip>86336</Zip>
         </Address>
     </Hotel>
     <!--#4-->
     <Hotel Rating="4.6">
-        <Name The Fullerton Hotel Singapore/>
-        <Phone 65-6733-8388/>
+        <Name>The Fullerton Hotel Singapore</Name>
+        <Phone>65-6733-8388</Phone>
         <Address NearstAirport="SIN Changi Airport">
-            <Number 1/>
-            <Street Fullerton Square/>
-            <City Singapore/>
-            <State Singapore/>
-            <Zip 049178/>
+            <Number>1</Number>
+            <Street>Fullerton Square</Street>
+            <City>Singapore</City>
+            <State>Singapore</State>
+            <Zip>049178</Zip>
         </Address>
     </Hotel>
     <!--#5-->
     <Hotel Rating="4.6">
-        <Name The Lenox Hotel/>
-        <Phone 617-536-5300/>
+        <Name>The Lenox Hotel</Name>
+        <Phone>617-536-5300</Phone>
         <Address NearstAirport="BOS Logan International Airport">
-            <Number 61/>
-            <Street Exeter St/>
-            <City Boston/>
-            <State MA/>
-            <Zip 02116/>
+            <Number>61</Number>
+            <Street>Exeter St</Street>
+            <City>Boston</City>
+            <State>MA</State>
+            <Zip>02116</Zip>
         </Address>
     </Hotel>
     <!--#6-->
     <Hotel Rating="4.4">
-        <Name Radio City Apartments/>
-        <Phone 212-730-0728/>
+        <Name>Radio City Apartments</Name>
+        <Phone>212-730-0728</Phone>
         <Address NearstAirport="LGA LaGuardia Airport">
-            <Number 142/>
-            <Street W 49th St/>
-            <City New York/>
-            <State NY/>
-            <Zip 10020/>
+            <Number>142</Number>
+            <Street>W 49th St</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10020</Zip>
         </Address>
     </Hotel>
     <!--#7-->
     <Hotel Rating="1100">
-        <Name Hotel Teatro/>
-        <Phone 888-727-1200/>
+        <Name>Hotel Teatro</Name>
+        <Phone>888-727-1200</Phone>
         <Address NearstAirport="DEN Denver International Airport">
-            <Number 1100/>
-            <Street 14t St/>
-            <City Denver/>
-            <State CO/>
-            <Zip 80202/>
+            <Number>1100</Number>
+            <Street>14t St</Street>
+            <City>Denver</City>
+            <State>CO</State>
+            <Zip>80202</Zip>
         </Address>
     </Hotel>
     <!--#8-->
     <Hotel Rating="">
-        <Name Royal Kona Resort/>
-        <Phone 808-329-3111/>
-        <Address NearstAirport=" KOA Kona International Airport">
-            <Number 75-5852/>
-            <Street Alii Dr/>
-            <City Kailua-Kona/>
-            <State HI/>
-            <Zip 96740/>
+        <Name>Royal Kona Resort</Name>
+        <Phone>808-329-3111</Phone>
+        <Address NearstAirport="KOA Kona International Airport">
+            <Number>75-5852</Number>
+            <Street>Alii Dr</Street>
+            <City>Kailua-Kona</City>
+            <State>HI</State>
+            <Zip>96740</Zip>
         </Address>
     </Hotel>
     <!--#9-->
     <Hotel Rating="">
-        <Name Waikiki Malia/>
-        <Phone 808-923-7621/>
+        <Name>Waikiki Malia</Name>
+        <Phone>808-923-7621</Phone>
         <Address NearstAirport="HNL Daniel K. Inouye International Airport">
-            <Number 2211/>
-            <Street Kuhio Ave/>
-            <City Honolulu/>
-            <State HI/>
-            <Zip 96815/>
+            <Number>2211</Number>
+            <Street>Kuhio Ave</Street>
+            <City>Honolulu</City>
+            <State>HI</State>
+            <Zip>96815</Zip>
         </Address>
     </Hotel>
     <!--#10-->
     <Hotel Rating="">
-        <Name The Lakefront Anchorage/>
-        <Phone 907-243-2300/>
+        <Name>The Lakefront Anchorage</Name>
+        <Phone>907-243-2300</Phone>
         <Address NearstAirport="ANC Ted Stevens Anchorage International Airport">
-            <Number 4800/>
-            <Street Spenard Road/>
-            <City Anchorage/>
-            <State AK/>
-            <Zip 99517/>
+            <Number>4800</Number>
+            <Street>Spenard Road</Street>
+            <City>Anchorage</City>
+            <State>AK</State>
+            <Zip>99517</Zip>
         </Address>
     </Hotel>
 </Hotels>
